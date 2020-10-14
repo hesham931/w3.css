@@ -252,11 +252,25 @@ button{
     .header{
         padding:0px !important;
         background-size: 100%;
+        height:500px
     }
     .contact-image{
         background-size: 100%;
     }
     .contact-image p{
         padding:100px
+    }
+    .numbers{
+        padding:0px
+    }
+    .avatar{
+        padding:0px
+    }
+    .nav{
+        padding:0px !important;
+        margin:0px !important
+    }
+    .home{
+        padding:0px
     }
 }
