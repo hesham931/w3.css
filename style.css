@@ -242,6 +242,21 @@ button{
         margin:100px 200px 100px 200px;
     }
     .body{
-        padding:50px;
+        padding:20px;
+    }
+    .header-logo{
+        width: 300px;
+        font-size: 30px;
+        margin-top:50px !important
+    }
+    .header{
+        padding:0px !important;
+        background-size: 100%;
+    }
+    .contact-image{
+        background-size: 100%;
+    }
+    .contact-image p{
+        padding:100px
     }
 }
