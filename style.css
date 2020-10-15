@@ -20,7 +20,9 @@ body{
     font-size: 20px
 }
 .class-a:hover{
-    background-color: darkgrey
+    background-color: darkgrey;
+    border-radius:10px;
+    padding:20px
 }
 .header-logo{
     width: 400px;
@@ -235,6 +237,21 @@ button{
     .images-links > a > img{
         width:150px;
         height:150px
+    }
+}
+@media screen and (max-width:991px){
+    .responsive{
+        background-color: snow;
+        padding:20px;
+        border-radius:10px;
+    }
+    .responsive-1{
+        padding:15px;
+        border-radius:10px;
+    }
+    .responsive-1:hover{
+        background-color: darkgrey;
+        padding:15px
     }
 }
 @media screen and (max-width:756px){
